@@ -1,0 +1,28 @@
+nav#main-nav {
+    background-color: rgb(40, 41, 88);
+    color: white;
+
+    /*
+    Moo
+    */
+
+}
+
+#main-nav a {
+    color: rgb(161, 250, 210);
+    padding: 1em;
+    display: inline-block;
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: all ease 1s;
+}
+
+#main-nav a:hover {
+    background-color: rgb(73, 75, 160);
+    color: rgb(1, 247, 255);
+}
+
+body {
+    background-color: rgb(34, 147, 106);
+    margin: 0;
+}
