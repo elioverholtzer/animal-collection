@@ -98,7 +98,7 @@ header {
 }
 
 nav#main-nav {
-    background-color: var(--background2);
+    background-color: #215950;
     color: white;
     border-radius: 7px;
     border: 3px solid var(--accent);
@@ -110,7 +110,7 @@ nav#main-nav {
 }
 
 #main-nav a {
-    color: var(--text);
+    color: #FFFFFF;
     padding: 1em;
     display: inline-block;
     font-size: 1.2rem;
